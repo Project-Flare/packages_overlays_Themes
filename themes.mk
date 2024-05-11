@@ -356,3 +356,7 @@ endif
 PRODUCT_PACKAGES += \
     HideSmartSpace \
     SmartSpaceOffset
+
+# A11QSUI
+PRODUCT_PACKAGES += \
+    A11QSUI
