@@ -96,6 +96,7 @@ PRODUCT_PACKAGES += \
     FontGInterOverlay \
     FontGeometosOverlay \
     FontGrandHotelSourceOverlay \
+    FontGoogleSansOverlay \
     FontHarmonySansOverlay \
     FontKaiOverlay \
     FontLGSmartGothicSourceOverlay \
